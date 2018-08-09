@@ -15,8 +15,8 @@
     padding-left: 0;
 }
 
-.Button:disabled{
-    color:#ccc;
+.Button:disabled {
+    color: #ccc;
     cursor: not-allowed;
 }
 
@@ -27,4 +27,3 @@
 .Danger {
     color: #944317;
 }
-
